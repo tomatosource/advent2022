@@ -8,7 +8,7 @@ going for a different language per challenge
 | --- | --------------- | ------------------ |
 | 1   | [awk](./d1/pt1) | [python](./d1/pt2) |
 | 2   | [sql](./d2/pt1) | [c](./d2/pt2)      |
-| 3   |                 |                    |
+| 3   | [R](./d3/pt1)   |                    |
 | 4   |                 |                    |
 | 5   |                 |                    |
 | 6   |                 |                    |
