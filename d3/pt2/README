@@ -1,0 +1,5 @@
+# ruby
+
+```
+ruby main.rb
+```
