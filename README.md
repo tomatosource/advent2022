@@ -9,7 +9,7 @@ going for a different language per challenge
 | 1   | [awk](./d1/pt1) | [python](./d1/pt2) |
 | 2   | [sql](./d2/pt1) | [c](./d2/pt2)      |
 | 3   | [R](./d3/pt1)   | [ruby](./d3/pt2)   |
-| 4   | [lua](./d4/pt1) |                    |
+| 4   | [lua](./d4/pt1) | [wren](./d4/pt2)   |
 | 5   |                 |                    |
 | 6   |                 |                    |
 | 7   |                 |                    |
