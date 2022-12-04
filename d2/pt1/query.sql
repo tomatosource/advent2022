@@ -1,8 +1,8 @@
-create table if not exists input(
-  line text
-);
-delete from input;
-.import ./input.txt input
+--  create table if not exists input(
+  --  line text
+--  );
+--  delete from input;
+--  .import ./input.txt input
 
 with matches as (
   select
