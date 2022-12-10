@@ -10,7 +10,7 @@ going for a different language per challenge
 | 2   | [sql](./d2/pt1)          | [c](./d2/pt2)            |
 | 3   | [R](./d3/pt1)            | [ruby](./d3/pt2)         |
 | 4   | [lua](./d4/pt1)          | [wren](./d4/pt2)         |
-| 5   | [typescript]('./d5/pt1') | [typescript]('./d5/pt2)' |
+| 5   | [typescript]('./d5/pt1') | [typescript]('./d5/pt2') |
 | 6   | [rust]('./d6/pt1')       | [sh]('./d6/pt2')         |
 | 7   |                          |                          |
 | 8   |                          |                          |
