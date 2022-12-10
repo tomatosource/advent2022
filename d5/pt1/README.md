@@ -1,0 +1,6 @@
+# typescript
+
+```
+yarn
+yarn go
+```
