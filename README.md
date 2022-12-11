@@ -15,7 +15,7 @@ Update: Now allowing myself to use the same language for both parts of a day if 
 | 5   | [typescript]('./d5/pt1') | [typescript]('./d5/pt2') |
 | 6   | [rust]('./d6/pt1')       | [sh]('./d6/pt2')         |
 | 7   | [dart]('./d7/pt1')       | [dart]('./d7/pt1')       |
-| 8   |                          |                          |
+| 8   | [nim]('./d8/pt1')        |                          |
 | 9   |                          |                          |
 | 10  |                          |                          |
 | 11  |                          |                          |
